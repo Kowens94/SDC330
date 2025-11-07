@@ -51,6 +51,7 @@ The Employee Management System is a modular Java application designed to help us
 
 ## Link to Project
 [Employee Management System Repository]https://github.com/Kowens94/SDC330
+[Youtube Link] https://youtu.be/PUDyxC226GU
 
 ## License
 This project is licensed under the GNU License - see the
